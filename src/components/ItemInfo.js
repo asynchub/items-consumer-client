@@ -1,11 +1,8 @@
 import React from "react";
-import { useQuery } from '@apollo/client';
-import { QUERY_getItemBySerialNumber } from '../api/queries';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
-import { ImSpinner2 } from 'react-icons/im';
 import { FcApproval } from 'react-icons/fc';
 import { MdError } from 'react-icons/md';
 import './ItemInfo.css'
