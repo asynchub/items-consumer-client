@@ -1,0 +1,19 @@
+.ItemInfo {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.SerialInfo {
+  font-weight: bold;
+}
+
+.WarrantyInfo {
+  align-items: center;
+}
+
+.ModelInfo {
+  font-weight: bold;
+}
